@@ -53,6 +53,8 @@ The project is about REST API implementation in Java and  using Swagger Dependen
  
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task2/blob/master/Images/Swagger%20Outputs/swagget-ui1.PNG)
   
+  The platform details and description of url and fields is shown .
+  
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task2/blob/master/Images/Swagger%20Outputs/swagger-ui2.PNG)
   
   * Interact with Swagger UI with following ways-
