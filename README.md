@@ -33,7 +33,7 @@ The project is about REST API implementation in Java and  using Swagger Dependen
 
 ### Break down into end to end tests
 
-* Now Swagger is ready to generate documentation .Verifythat Swagger is running by creating a request to
+* Now Swagger is ready to generate documentation .Verify that Swagger is running by creating a request to
   http://localhost:8080/v2/api-docs
   
   ![](https://github.com/bharatprakashparakh/Kaiburr-Task2/blob/master/Images/Swagger%20Outputs/apidocs1.PNG)
